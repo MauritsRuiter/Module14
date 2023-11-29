@@ -1,0 +1,18 @@
+.bg_green {
+    background-color: #709b1d;
+    color: #fff;
+}
+
+.bg_grey {
+    background-color: #9f9f9f;
+}
+
+.bg_light_grey {
+    background-color: #e1e1e1;
+}
+.color_primary {
+    color: #709b1d;
+}
+.minheight {
+    min-height: 100px;
+}
